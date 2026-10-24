@@ -1,3 +1,5 @@
+inport os
+os.system("pip install -r requirements.txt --quiet")
 # -*- coding: utf-8 -*-
 """
 Olist Customer Insights Dashboard
